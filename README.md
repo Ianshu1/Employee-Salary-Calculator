@@ -6,4 +6,4 @@ Getting Started
 To get up and running with Employee-Salary-Calculator, follow these steps:
 
 1.Clone the repository:
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/ianshu1/yourproject.git
