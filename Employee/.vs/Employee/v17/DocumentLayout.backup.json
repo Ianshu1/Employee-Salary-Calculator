@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AF449-9460-4070-A610-72F46D183432}|EmployeeTests\\EmployeeTests.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employeetests\\companytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F71AF449-9460-4070-A610-72F46D183432}|EmployeeTests\\EmployeeTests.csproj|solutionrelative:employeetests\\companytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71AF449-9460-4070-A610-72F46D183432}|EmployeeTests\\EmployeeTests.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employeetests\\employeetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F71AF449-9460-4070-A610-72F46D183432}|EmployeeTests\\EmployeeTests.csproj|solutionrelative:employeetests\\employeetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\employee.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\workentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\workentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\icompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\icompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\employeemonthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\employeemonthlyreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\exceptions\\negativeemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\exceptions\\negativeemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\exceptions\\invalidworktimeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\exceptions\\invalidworktimeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\exceptions\\invalidemployeemonthlyreportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\exceptions\\invalidemployeemonthlyreportexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|c:\\users\\user\\desktop\\codelex\\_employee\\employee\\employee\\employee\\exceptions\\employeeidexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D85AE0F-2919-40DD-B9E4-6B9D349C101D}|Employee\\Employee.csproj|solutionrelative:employee\\exceptions\\employeeidexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeTests",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\EmployeeTests\\EmployeeTests.csproj",
+              "RelativeDocumentMoniker": "EmployeeTests\\EmployeeTests.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\EmployeeTests\\EmployeeTests.csproj",
+              "RelativeToolTip": "EmployeeTests\\EmployeeTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T19:29:13.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\EmployeeTests\\CompanyTests.cs",
+              "RelativeDocumentMoniker": "EmployeeTests\\CompanyTests.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\EmployeeTests\\CompanyTests.cs",
+              "RelativeToolTip": "EmployeeTests\\CompanyTests.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:29:01.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Company.cs",
+              "RelativeDocumentMoniker": "Employee\\Company.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Company.cs",
+              "RelativeToolTip": "Employee\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:22:36.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Employee.cs",
+              "RelativeToolTip": "Employee\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:17:35.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeMonthlyReport.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\EmployeeMonthlyReport.cs",
+              "RelativeDocumentMoniker": "Employee\\EmployeeMonthlyReport.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\EmployeeMonthlyReport.cs",
+              "RelativeToolTip": "Employee\\EmployeeMonthlyReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:21:45.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICompany.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\ICompany.cs",
+              "RelativeDocumentMoniker": "Employee\\ICompany.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\ICompany.cs",
+              "RelativeToolTip": "Employee\\ICompany.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:19:09.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkEntry.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\WorkEntry.cs",
+              "RelativeDocumentMoniker": "Employee\\WorkEntry.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\WorkEntry.cs",
+              "RelativeToolTip": "Employee\\WorkEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:23:23.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Employee.csproj",
+              "RelativeDocumentMoniker": "Employee\\Employee.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Employee.csproj",
+              "RelativeToolTip": "Employee\\Employee.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T19:18:45.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NegativeEmployeeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\NegativeEmployeeIdException.cs",
+              "RelativeDocumentMoniker": "Employee\\Exceptions\\NegativeEmployeeIdException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\NegativeEmployeeIdException.cs",
+              "RelativeToolTip": "Employee\\Exceptions\\NegativeEmployeeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:24:44.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvalidWorkTimeException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\InvalidWorkTimeException.cs",
+              "RelativeDocumentMoniker": "Employee\\Exceptions\\InvalidWorkTimeException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\InvalidWorkTimeException.cs",
+              "RelativeToolTip": "Employee\\Exceptions\\InvalidWorkTimeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:24:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidEmployeeMonthlyReportException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\InvalidEmployeeMonthlyReportException.cs",
+              "RelativeDocumentMoniker": "Employee\\Exceptions\\InvalidEmployeeMonthlyReportException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\InvalidEmployeeMonthlyReportException.cs",
+              "RelativeToolTip": "Employee\\Exceptions\\InvalidEmployeeMonthlyReportException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:24:29.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "Employee\\Exceptions\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "Employee\\Exceptions\\EmployeeNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:24:21.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeIdExistException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\EmployeeIdExistException.cs",
+              "RelativeDocumentMoniker": "Employee\\Exceptions\\EmployeeIdExistException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Codelex\\_employee\\Employee\\Employee\\Employee\\Exceptions\\EmployeeIdExistException.cs",
+              "RelativeToolTip": "Employee\\Exceptions\\EmployeeIdExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:24:11.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
